@@ -1,4 +1,4 @@
-# Csharp Console  Beginners Puzzle 1
+# Csharp Console Beginners Puzzle 1
 ### Lets do some console app puzzles. Most beginners start off writing console apps, so it is a good way to make sure we cover the basics.
 
 ### View the YouTube Video: 
